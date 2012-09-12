@@ -1,4 +1,4 @@
 util
 ====
 
-util for mysql
+util for myself
