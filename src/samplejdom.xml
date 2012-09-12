@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HD><!-- 根元素 -->
+	<disk name="C">
+		<capacity>28G</capacity>
+		<directories>200</directories>
+		<files>1580</files>
+	</disk>
+
+	<disk name="D">
+		<capacity>115G</capacity>
+		<directories>300</directories>
+		<files>2000</files>
+	</disk>
+</HD>
